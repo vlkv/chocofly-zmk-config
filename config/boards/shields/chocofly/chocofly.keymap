@@ -3,7 +3,7 @@
 #include <dt-bindings/zmk/bt.h>
 
 &lt { quick_tap_ms = <200>; };
-&mt { quick_tap_ms = <200>; } ;
+&mt { quick_tap_ms = <200>; };
 
 / {
     keymap {
